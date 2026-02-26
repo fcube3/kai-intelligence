@@ -89,32 +89,32 @@
   ],
   "social_intelligence": [
     {
-      "source": "X macro/metal threads (WGC-linked and trader commentary) + Reddit r/Gold/r/investing + bank-strategy chatter",
+      "source": "X trader threads (#XAUUSD, macro metals), Reddit r/Gold + r/investing discussions, and commodity-desk commentary relayed via market media",
       "asset": "Gold",
-      "signal": "Constructive Bullish, Pullback-Sensitive",
-      "confidence": "81%",
-      "insight": "Social tone stays net bullish on safe-haven demand and raised 2026 targets, but X/Reddit threads increasingly debate near-term downside if US yields and the dollar firm around data prints; dip-buying remains preferred over chase-buying."
+      "signal": "Bullish Bias, Momentum-Cooling",
+      "confidence": "79%",
+      "insight": "Cross-platform chatter stays net bullish on safe-haven and target-upgrade narratives, but the tone shifted from euphoria to tactical caution after sharp pullbacks; most active voices favor buying dips near support rather than chasing breakouts."
     },
     {
-      "source": "X silver-squeeze/COMEX inventory threads + Reddit r/Silverbugs + commodity-analyst commentary",
+      "source": "X silver-squeeze/COMEX inventory threads, Reddit r/Silverbugs debates, and precious-metals analyst community notes",
       "asset": "Silver",
-      "signal": "High-Beta Bullish, Narrative-Driven",
-      "confidence": "82%",
-      "insight": "Cross-platform sentiment is still aggressively bullish around deficit and inventory-drain narratives, but the same communities acknowledge squeeze-driven whipsaw risk and view extreme upside calls as possible spike scenarios rather than stable baselines."
+      "signal": "Speculative Bullish, Volatility-Heavy",
+      "confidence": "84%",
+      "insight": "Social sentiment remains aggressively bullish around delivery-tightness and squeeze narratives, yet communities increasingly frame extreme upside calls as spike scenarios; consensus is bullish directionally but expects violent two-way moves."
     },
     {
-      "source": "X ETF-flow accounts (Cointelegraph/CMC) + Reddit r/Bitcoin + crypto desk/sentiment analytics communities",
+      "source": "X ETF-flow accounts and crypto commentators, Reddit r/Bitcoin daily threads, and crypto analyst community (desk + on-chain sentiment commentary)",
       "asset": "Bitcoin",
-      "signal": "Tactically Rebounding, Structurally Fragile",
-      "confidence": "86%",
-      "insight": "BTC sentiment improved after rebound sessions and intermittent inflow headlines, yet dominant discussion still centers on February ETF outflows, leverage flushes, and rotation-type participation; conviction looks conditional on sustained positive flow follow-through."
+      "signal": "Mixed-to-Recovering, Flow-Dependent",
+      "confidence": "87%",
+      "insight": "BTC sentiment rebounded with late-February bounce sessions, but discussion still fixates on competing ETF inflow/outflow signals and recent risk-off liquidations; conviction improves only when positive spot-flow momentum persists for multiple sessions."
     },
     {
-      "source": "X ETH market/ecosystem threads + Reddit r/ethereum + analyst communities (Santiment/CoinDesk-linked discourse)",
+      "source": "X ETH trader/whale sentiment posts, Reddit r/ethereum daily discussions, and crypto analyst communities (market-structure + on-chain framing)",
       "asset": "Ethereum",
-      "signal": "Cautious to Mild Bearish with Contrarian Bounce Interest",
-      "confidence": "85%",
-      "insight": "ETH conversation remains weaker than BTC: many posts frame sentiment as near-cycle lows and discuss oversold rebound setups, but prevailing tone still reflects frustration over underperformance and a need for stronger risk-on + institutional flow confirmation."
+      "signal": "Cautious Bearish with Contrarian Rebound Interest",
+      "confidence": "86%",
+      "insight": "ETH tone is still weaker than BTC: many posts describe capitulation/underwater positioning and relative underperformance, while a smaller but louder cohort argues for oversold V-shape potential if broader risk appetite and institutional rotation continue."
     }
   ],
   "predictions": [
