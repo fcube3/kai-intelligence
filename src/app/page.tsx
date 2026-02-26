@@ -24,22 +24,25 @@ export default function Home() {
   return (
     <main className="p-4 md:p-8 max-w-7xl mx-auto">
       {/* Header */}
-      <header className="mb-12 flex flex-col md:flex-row justify-between items-start md:items-end">
+      <header className="mb-10 flex flex-col md:flex-row justify-between items-start md:items-end border-b border-[#30363d]/60 pb-8">
         <div className="w-full md:w-auto">
-          <div className="flex justify-between items-start mb-4 md:mb-0">
-             <h1 className="text-4xl font-bold mb-2 uppercase tracking-tighter text-white">{t.title}</h1>
+          <div className="flex justify-between items-start mb-3 md:mb-0">
+             <div>
+               <h1 className="text-3xl md:text-4xl font-bold mb-1 uppercase tracking-tighter text-white">{t.title}</h1>
+               <div className="h-0.5 w-16 rounded-full bg-[#F5A623]" />
+             </div>
              <div className="md:hidden">
                 <LanguageSelector />
              </div>
           </div>
-          <p className="text-gray-500 font-medium">{t.subtitle}</p>
+          <p className="text-gray-500 font-medium mt-2 text-sm">{t.subtitle}</p>
         </div>
         <div className="text-right mt-4 md:mt-0 flex flex-col items-end w-full md:w-auto">
           <div className="hidden md:block mb-4">
             <LanguageSelector />
           </div>
-          <p className="text-lg font-bold text-white">{dailyIntel.date}</p>
-          <div className="flex items-center justify-end space-x-2">
+          <p className="text-lg font-bold text-[#F5A623]">{dailyIntel.date}</p>
+          <div className="flex items-center justify-end space-x-2 mt-1">
             <span className="px-2 py-0.5 bg-green-900/30 text-green-400 text-[10px] rounded border border-green-700 uppercase font-black">{t.liveFeed}</span>
             <span className="text-[10px] text-gray-500 font-bold uppercase tracking-widest">DXY: 104.5 | US10Y: 4.2%</span>
           </div>
@@ -55,13 +58,13 @@ export default function Home() {
           
           {/* Major News */}
           <section>
-            <h2 className="text-xl font-bold mb-6 flex items-center uppercase tracking-widest text-white">
-              <i className={`fas fa-bolt ${language === 'ar' ? 'ml-3' : 'mr-3'} text-blue-500`}></i> {t.newsTitle}
+            <h2 className="text-sm font-black mb-6 flex items-center uppercase tracking-[0.2em] text-[#F5A623]">
+              <i className={`fas fa-bolt ${language === 'ar' ? 'ml-3' : 'mr-3'}`}></i> {t.newsTitle}
             </h2>
             <div className="grid md:grid-cols-2 gap-4">
               {dailyIntel.news.map((item, idx) => (
-                <a key={idx} href={item.url} target="_blank" className="bg-[#161b22] border border-[#30363d] p-4 border-l-4 border-blue-600 hover:bg-gray-800/30 block group rounded-r-lg transition">
-                  <h3 className="font-bold mb-1 text-sm group-hover:text-blue-500 transition uppercase tracking-tight">{item.title}</h3>
+                <a key={idx} href={item.url} target="_blank" className="bg-[#161b22] border border-[#30363d] p-4 border-l-4 border-[#F5A623]/60 hover:bg-gray-800/30 hover:border-[#F5A623] block group rounded-r-xl transition">
+                  <h3 className="font-bold mb-1 text-sm group-hover:text-[#F5A623] transition uppercase tracking-tight">{item.title}</h3>
                   <p className="text-xs text-gray-400 leading-tight">{item.summary}</p>
                 </a>
               ))}
@@ -70,8 +73,8 @@ export default function Home() {
 
           {/* Social Intelligence Stream (Dynamic Colors) */}
           <section>
-            <h2 className="text-xl font-bold mb-6 flex items-center uppercase tracking-widest text-white">
-              <i className={`fas fa-project-diagram ${language === 'ar' ? 'ml-3' : 'mr-3'} text-purple-500`}></i> {t.socialIntelTitle}
+            <h2 className="text-sm font-black mb-6 flex items-center uppercase tracking-[0.2em] text-[#F5A623]">
+              <i className={`fas fa-project-diagram ${language === 'ar' ? 'ml-3' : 'mr-3'}`}></i> {t.socialIntelTitle}
             </h2>
             <div className="space-y-4">
               {dailyIntel.social_intelligence.map((item, idx) => {
@@ -94,8 +97,8 @@ export default function Home() {
 
           {/* Institutional Intelligence */}
           <section className="space-y-10">
-            <h2 className="text-xl font-bold mb-8 flex items-center border-b border-gray-800 pb-2 uppercase tracking-widest text-white">
-              <i className={`fas fa-university ${language === 'ar' ? 'ml-3' : 'mr-3'} text-gray-500`}></i> {t.intelTitle}
+            <h2 className="text-sm font-black mb-8 flex items-center border-b border-[#F5A623]/20 pb-3 uppercase tracking-[0.2em] text-[#F5A623]">
+              <i className={`fas fa-university ${language === 'ar' ? 'ml-3' : 'mr-3'}`}></i> {t.intelTitle}
             </h2>
             
             <div className="grid grid-cols-1 gap-8">
