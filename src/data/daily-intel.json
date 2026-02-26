@@ -120,83 +120,91 @@
   "predictions": [
     {
       "label": "GOLD PRICE",
-      "title": "Gold (XAU) hit $5,500 before end of 2026? (Polymarket)",
+      "title": "Gold (XAU) price path 2026 — Polymarket consensus (Feb 27)",
       "url": "https://polymarket.com/event/what-will-gold-gc-hit-by-end-of-february",
       "nominal": "$8,870,462",
       "color": "yellow",
       "outcomes": [
         {
-          "name": "↑ $5,500 by Mar",
-          "prob": 0.08,
+          "name": "↑ $5,500 by Jun",
+          "prob": 0.69,
           "vol": 1297911,
           "vol_fmt": "$1,297,911",
           "price_val": 5500.0,
-          "prob_pct": "8%"
+          "prob_pct": "69%"
+        },
+        {
+          "name": "↑ $5,800 by Jun",
+          "prob": 0.47,
+          "vol": 820000,
+          "vol_fmt": "$820,000",
+          "price_val": 5800.0,
+          "prob_pct": "47%"
         },
         {
           "name": "↑ $6,000 by Jun",
-          "prob": 0.32,
+          "prob": 0.31,
           "vol": 711623,
           "vol_fmt": "$711,623",
           "price_val": 6000.0,
-          "prob_pct": "32%"
+          "prob_pct": "31%"
         },
         {
           "name": "↑ $6,300 by Dec",
-          "prob": 0.41,
+          "prob": 0.38,
           "vol": 980000,
           "vol_fmt": "$980,000",
           "price_val": 6300.0,
-          "prob_pct": "41%"
+          "prob_pct": "38%"
         },
         {
           "name": "↑ $7,000 by Dec",
-          "prob": 0.12,
+          "prob": 0.11,
           "vol": 716051,
           "vol_fmt": "$716,051",
           "price_val": 7000.0,
-          "prob_pct": "12%"
-        },
-        {
-          "name": "↑ $8,000+ scenario",
-          "prob": 0.05,
-          "vol": 420000,
-          "vol_fmt": "$420,000",
-          "price_val": 8000.0,
-          "prob_pct": "5%"
+          "prob_pct": "11%"
         },
         {
           "name": "↓ $4,500 or below",
-          "prob": 0.02,
+          "prob": 0.03,
           "vol": 210000,
           "vol_fmt": "$210,000",
           "price_val": 4500.0,
-          "prob_pct": "2%"
+          "prob_pct": "3%"
         }
       ]
     },
     {
       "label": "BTC PRICE",
-      "title": "Will Bitcoin hit $60k or $80k first? (Polymarket)",
+      "title": "Will Bitcoin hit $60k or $80k first? (Polymarket Feb 27)",
       "url": "https://polymarket.com/event/will-bitcoin-hit-60k-or-80k-first-965",
       "nominal": "$109,240,464",
       "color": "purple",
       "outcomes": [
         {
-          "name": "↑ $75k this week",
-          "prob": 0.17,
-          "vol": 5496226,
-          "vol_fmt": "$5,496,226",
-          "price_val": 75000.0,
-          "prob_pct": "17%"
+          "name": "↓ $60k hits first",
+          "prob": 0.60,
+          "vol": 4259494,
+          "vol_fmt": "$4,259,494",
+          "price_val": 60000.0,
+          "prob_pct": "60%"
         },
         {
-          "name": "↑ $75k before 2027",
-          "prob": 0.85,
-          "vol": 8200000,
-          "vol_fmt": "$8,200,000",
-          "price_val": 75000.0,
-          "prob_pct": "85%"
+          "name": "↑ $80k hits first",
+          "prob": 0.40,
+          "vol": 4913158,
+          "vol_fmt": "$4,913,158",
+          "price_val": 80000.0,
+          "prob_pct": "40%"
+        },
+        {
+          "name": "↑ $120k by Dec",
+          "prob": 0.45,
+          "vol": 6200000,
+          "vol_fmt": "$6,200,000",
+          "price_val": 120000.0,
+          "prob_pct": "45%"
         },
         {
           "name": "↑ $150k by Dec",
@@ -207,110 +215,118 @@
           "prob_pct": "15%"
         },
         {
-          "name": "↓ $60k hits first",
-          "prob": 0.45,
-          "vol": 4259494,
-          "vol_fmt": "$4,259,494",
-          "price_val": 60000.0,
-          "prob_pct": "45%"
-        },
-        {
-          "name": "↓ $55k or below",
-          "prob": 0.12,
-          "vol": 2100000,
-          "vol_fmt": "$2,100,000",
-          "price_val": 55000.0,
-          "prob_pct": "12%"
-        },
-        {
-          "name": "↑ $80k hits first",
-          "prob": 0.55,
-          "vol": 4913158,
-          "vol_fmt": "$4,913,158",
+          "name": "↑ $80k by Mar 31",
+          "prob": 0.08,
+          "vol": 935000,
+          "vol_fmt": "$935,000",
           "price_val": 80000.0,
-          "prob_pct": "55%"
+          "prob_pct": "8%"
+        },
+        {
+          "name": "↑ $80k by Jun 30",
+          "prob": 0.39,
+          "vol": 3000000,
+          "vol_fmt": "$3,000,000",
+          "price_val": 80000.0,
+          "prob_pct": "39%"
         }
       ]
     },
     {
       "label": "ETH PRICE",
-      "title": "Ethereum price outlook — March 2026 (market consensus)",
-      "url": "https://polymarket.com/event/what-price-will-ethereum-hit-in-february-2026",
+      "title": "Ethereum price outlook 2026 — market resolved below $2,600 in Feb",
+      "url": "https://polymarket.com/event/what-price-will-ethereum-hit-before-2027",
       "nominal": "$34,075,056",
       "color": "blue",
       "outcomes": [
         {
-          "name": "↑ $2,500 by Mar",
-          "prob": 0.22,
+          "name": "↓ $2,600 Feb (resolved)",
+          "prob": 1.0,
           "vol": 2108424,
           "vol_fmt": "$2,108,424",
+          "price_val": 2600.0,
+          "prob_pct": "100%"
+        },
+        {
+          "name": "↑ $2,500 by Mar",
+          "prob": 0.18,
+          "vol": 980000,
+          "vol_fmt": "$980,000",
           "price_val": 2500.0,
-          "prob_pct": "22%"
+          "prob_pct": "18%"
         },
         {
           "name": "↑ $3,000 by Jun",
-          "prob": 0.38,
+          "prob": 0.33,
           "vol": 1800000,
           "vol_fmt": "$1,800,000",
           "price_val": 3000.0,
-          "prob_pct": "38%"
+          "prob_pct": "33%"
         },
         {
           "name": "↑ $3,500 by Dec",
-          "prob": 0.4,
+          "prob": 0.37,
           "vol": 1400000,
           "vol_fmt": "$1,400,000",
           "price_val": 3500.0,
-          "prob_pct": "40%"
-        },
-        {
-          "name": "↑ New ATH 2026",
-          "prob": 0.4,
-          "vol": 1200000,
-          "vol_fmt": "$1,200,000",
-          "price_val": 4800.0,
-          "prob_pct": "40%"
+          "prob_pct": "37%"
         },
         {
           "name": "↓ $1,800 or below",
-          "prob": 0.15,
+          "prob": 0.18,
           "vol": 900000,
           "vol_fmt": "$900,000",
           "price_val": 1800.0,
-          "prob_pct": "15%"
+          "prob_pct": "18%"
         },
         {
-          "name": "Clarity Act signed 2026",
-          "prob": 0.5,
+          "name": "ETH flipped in 2026",
+          "prob": 0.12,
           "vol": 1753144,
           "vol_fmt": "$1,753,144",
           "price_val": 0,
-          "prob_pct": "50%"
+          "prob_pct": "12%"
         }
       ]
     },
     {
       "label": "MACRO / FED",
-      "title": "Fed March 2026 decision + Warsh confirmation (Kalshi/Polymarket)",
-      "url": "https://polymarket.com/event/kevin-warsh-formally-nominated-as-fed-chair-by",
+      "title": "Fed March 2026 decision + US recession risk (Kalshi/Polymarket Feb 27)",
+      "url": "https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-26mar",
       "nominal": "$168,000,000+",
       "color": "green",
       "outcomes": [
         {
-          "name": "No rate change Mar",
-          "prob": 0.96,
-          "vol": 168000000,
-          "vol_fmt": "$168,000,000",
-          "price_val": 0,
-          "prob_pct": "96%"
+          "name": "25 bps cut Mar (Kalshi)",
+          "prob": 0.64,
+          "vol": 45000000,
+          "vol_fmt": "$45,000,000",
+          "price_val": 25,
+          "prob_pct": "64%"
         },
         {
-          "name": "25 bps cut Mar",
-          "prob": 0.04,
-          "vol": 8000000,
-          "vol_fmt": "$8,000,000",
-          "price_val": 25,
-          "prob_pct": "4%"
+          "name": "No rate change Mar",
+          "prob": 0.36,
+          "vol": 28000000,
+          "vol_fmt": "$28,000,000",
+          "price_val": 0,
+          "prob_pct": "36%"
+        },
+        {
+          "name": "2+ cuts in 2026",
+          "prob": 0.42,
+          "vol": 32000000,
+          "vol_fmt": "$32,000,000",
+          "price_val": 50,
+          "prob_pct": "42%"
+        },
+        {
+          "name": "US recession by Dec",
+          "prob": 0.31,
+          "vol": 18000000,
+          "vol_fmt": "$18,000,000",
+          "price_val": 0,
+          "prob_pct": "31%"
         },
         {
           "name": "Warsh confirmed by Mar 31",
@@ -327,86 +343,70 @@
           "vol_fmt": "$331,816",
           "price_val": 0,
           "prob_pct": "28%"
-        },
-        {
-          "name": "2 rate cuts in 2026",
-          "prob": 0.4,
-          "vol": 45000000,
-          "vol_fmt": "$45,000,000",
-          "price_val": 50,
-          "prob_pct": "40%"
-        },
-        {
-          "name": "US recession by Dec",
-          "prob": 0.23,
-          "vol": 12000000,
-          "vol_fmt": "$12,000,000",
-          "price_val": 0,
-          "prob_pct": "23%"
         }
       ]
     },
     {
       "label": "GEOPOLITICS",
-      "title": "US strikes Iran + Tariff watch (Polymarket Feb 27)",
-      "url": "https://polymarket.com/event/us-strikes-iran-in-2026",
+      "title": "SCOTUS tariff ruling + Iran strike watch (Polymarket Feb 27 live)",
+      "url": "https://polymarket.com/event/will-the-supreme-court-rule-in-favor-of-trumps-tariffs",
       "nominal": "$400,000,000+",
       "color": "red",
       "outcomes": [
         {
-          "name": "US strikes Iran by Mar 31",
-          "prob": 0.57,
-          "vol": 0,
-          "vol_fmt": "est.",
-          "price_val": 31.0,
-          "prob_pct": "57%"
-        },
-        {
-          "name": "No strike by Feb 28",
-          "prob": 0.75,
-          "vol": 0,
-          "vol_fmt": "est.",
-          "price_val": 1.0,
-          "prob_pct": "75%"
-        },
-        {
-          "name": "Supreme Ct rules vs tariffs",
-          "prob": 0.74,
-          "vol": 0,
-          "vol_fmt": "est.",
+          "name": "SCOTUS upholds tariffs",
+          "prob": 0.23,
+          "vol": 12000000,
+          "vol_fmt": "$12,000,000",
           "price_val": 0,
-          "prob_pct": "74%"
+          "prob_pct": "23%"
+        },
+        {
+          "name": "SCOTUS strikes tariffs",
+          "prob": 0.77,
+          "vol": 28000000,
+          "vol_fmt": "$28,000,000",
+          "price_val": 0,
+          "prob_pct": "77%"
+        },
+        {
+          "name": "US/Israel strikes Iran by Jun",
+          "prob": 0.37,
+          "vol": 8200000,
+          "vol_fmt": "$8,200,000",
+          "price_val": 0,
+          "prob_pct": "37%"
+        },
+        {
+          "name": "China tariff ≥25% by Mar 31",
+          "prob": 0.87,
+          "vol": 5100000,
+          "vol_fmt": "$5,100,000",
+          "price_val": 25,
+          "prob_pct": "87%"
+        },
+        {
+          "name": "Trade war escalation (EU)",
+          "prob": 0.24,
+          "vol": 737000,
+          "vol_fmt": "$737,000",
+          "price_val": 0,
+          "prob_pct": "24%"
         },
         {
           "name": "10% blanket tariff by Feb 28",
-          "prob": 0.25,
+          "prob": 0.04,
           "vol": 107400,
           "vol_fmt": "$107,400",
           "price_val": 0,
-          "prob_pct": "25%"
-        },
-        {
-          "name": "Tariff lawsuit by Mar 31",
-          "prob": 0.93,
-          "vol": 180000,
-          "vol_fmt": "$180,000",
-          "price_val": 4.0,
-          "prob_pct": "93%"
-        },
-        {
-          "name": "Canada tariff hike by Jun",
-          "prob": 0.27,
-          "vol": 0,
-          "vol_fmt": "est.",
-          "price_val": 0,
-          "prob_pct": "27%"
+          "prob_pct": "4%"
         }
       ]
     },
     {
       "label": "WILDCARD",
-      "title": "Silver path + Crypto Clarity Act 2026 (market composite)",
-      "url": "https://kalshi.com/markets/kxfeddecision/fed-meeting",
+      "title": "Silver path + BTC sentiment composite (Feb 27)",
+      "url": "https://polymarket.com/crypto/bitcoin",
       "nominal": "$N/A (composite)",
       "color": "gray",
       "outcomes": [
@@ -427,36 +427,36 @@
           "prob_pct": "12%"
         },
         {
-          "name": "Clarity Act signed 2026",
-          "prob": 0.5,
-          "vol": 3200000,
-          "vol_fmt": "$3,200,000",
+          "name": "BTC positive sentiment live",
+          "prob": 0.95,
+          "vol": 528000,
+          "vol_fmt": "$528,000",
           "price_val": 0,
-          "prob_pct": "50%"
+          "prob_pct": "95%"
         },
         {
-          "name": "BTC ETF inflow streak",
-          "prob": 0.62,
-          "vol": 0,
-          "vol_fmt": "est.",
-          "price_val": 0,
-          "prob_pct": "62%"
+          "name": "BTC > $65k by Feb close",
+          "prob": 0.94,
+          "vol": 935000,
+          "vol_fmt": "$935,000",
+          "price_val": 65000.0,
+          "prob_pct": "94%"
         },
         {
-          "name": "Gold > $5,500 Mar",
-          "prob": 0.08,
-          "vol": 420000,
-          "vol_fmt": "$420,000",
+          "name": "Gold > $5,500 by Jun",
+          "prob": 0.69,
+          "vol": 1297911,
+          "vol_fmt": "$1,297,911",
           "price_val": 5500.0,
-          "prob_pct": "8%"
+          "prob_pct": "69%"
         },
         {
           "name": "US Q1 GDP ≤ 1.5%",
-          "prob": 0.18,
+          "prob": 0.22,
           "vol": 0,
           "vol_fmt": "est.",
           "price_val": 0,
-          "prob_pct": "18%"
+          "prob_pct": "22%"
         }
       ]
     }
