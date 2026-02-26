@@ -89,32 +89,32 @@
   ],
   "social_intelligence": [
     {
-      "source": "X metals macro feeds (FT, Holger Zschaepitz, Financial Post threads) + Reddit r/Gold/r/investing + sell-side metals chatter",
+      "source": "X macro/metal threads (WGC-linked and trader commentary) + Reddit r/Gold/r/investing + bank-strategy chatter",
       "asset": "Gold",
-      "signal": "Bullish Core, Tactical Pullback Risk",
-      "confidence": "83%",
-      "insight": "Cross-platform tone is still net-bullish around 2026 target upgrades and safe-haven inflow narratives, but discussion increasingly flags crowded positioning and near-term pullback risk if dollar/real yields firm."
+      "signal": "Constructive Bullish, Pullback-Sensitive",
+      "confidence": "81%",
+      "insight": "Social tone stays net bullish on safe-haven demand and raised 2026 targets, but X/Reddit threads increasingly debate near-term downside if US yields and the dollar firm around data prints; dip-buying remains preferred over chase-buying."
     },
     {
-      "source": "X silver-squeeze and commodity-flow threads + Reddit r/Silverbugs + Kitco/Reuters-linked metals commentary",
+      "source": "X silver-squeeze/COMEX inventory threads + Reddit r/Silverbugs + commodity-analyst commentary",
       "asset": "Silver",
-      "signal": "Speculative Bullish, High Volatility",
-      "confidence": "80%",
-      "insight": "Community sentiment remains upside-seeking (squeeze/physical-tightness narratives), but conviction is unstable: hype posts are now frequently paired with correction warnings tied to rebalancing flows and prior parabolic moves."
+      "signal": "High-Beta Bullish, Narrative-Driven",
+      "confidence": "82%",
+      "insight": "Cross-platform sentiment is still aggressively bullish around deficit and inventory-drain narratives, but the same communities acknowledge squeeze-driven whipsaw risk and view extreme upside calls as possible spike scenarios rather than stable baselines."
     },
     {
-      "source": "X crypto market accounts (Cointelegraph/CMC/ETF tracker discourse) + Reddit r/CryptoCurrency/r/Bitcoin + desk-analyst flow commentary",
+      "source": "X ETF-flow accounts (Cointelegraph/CMC) + Reddit r/Bitcoin + crypto desk/sentiment analytics communities",
       "asset": "Bitcoin",
-      "signal": "Rebound-Biased but Fragile",
-      "confidence": "85%",
-      "insight": "Sentiment improved on rebound and episodic ETF inflow days, yet broader chatter still emphasizes recent heavy outflow streaks, leverage washouts, and selective—not broad—risk appetite."
+      "signal": "Tactically Rebounding, Structurally Fragile",
+      "confidence": "86%",
+      "insight": "BTC sentiment improved after rebound sessions and intermittent inflow headlines, yet dominant discussion still centers on February ETF outflows, leverage flushes, and rotation-type participation; conviction looks conditional on sustained positive flow follow-through."
     },
     {
-      "source": "X ETH ecosystem and market threads + Reddit r/ethereum daily discussions + analyst-community flow/positioning commentary",
+      "source": "X ETH market/ecosystem threads + Reddit r/ethereum + analyst communities (Santiment/CoinDesk-linked discourse)",
       "asset": "Ethereum",
-      "signal": "Cautious Neutral to Mild Bearish",
-      "confidence": "84%",
-      "insight": "ETH mood is still more defensive than BTC: communities discuss oversold-bounce setups and tech roadmap positives, but dominant tone remains focused on underperformance, thinning conviction, and dependency on broader risk-on follow-through."
+      "signal": "Cautious to Mild Bearish with Contrarian Bounce Interest",
+      "confidence": "85%",
+      "insight": "ETH conversation remains weaker than BTC: many posts frame sentiment as near-cycle lows and discuss oversold rebound setups, but prevailing tone still reflects frustration over underperformance and a need for stronger risk-on + institutional flow confirmation."
     }
   ],
   "predictions": [
