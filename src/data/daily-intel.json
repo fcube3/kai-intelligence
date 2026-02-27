@@ -89,32 +89,32 @@
   ],
   "social_intelligence": [
     {
-      "source": "X macro/FX threads (#XAUUSD), Reddit r/Gold + r/investing discussions, and metals analyst commentary (MarketPulse/FXStreet)",
+      "source": "X macro/FX threads (#XAUUSD), Reddit r/Daytrading + r/Gold discussions, and metals analyst commentary (FXStreet/Commerzbank notes)",
       "asset": "Gold",
-      "signal": "Bullish, Slightly Overextended",
-      "confidence": "84%",
-      "insight": "Social flow is still net-bullish on tariff-driven safe-haven demand, with dip-buying repeatedly favored across X and Reddit. The main shift vs earlier in the month is more chatter about near-term overextension, but not a broad sentiment reversal."
+      "signal": "Bullish Safe-Haven, Mildly Crowded",
+      "confidence": "83%",
+      "insight": "Social chatter remains net-bullish as tariff uncertainty keeps safe-haven demand front and center; recent Reddit/X discussion still favors buying dips. Analyst tone is constructive near $5,200, but crowd positioning looks increasingly one-sided after the latest squeeze higher."
     },
     {
-      "source": "X silver-squeeze/COMEX accounts, Reddit r/Silverbugs threads, and precious-metals analyst community commentary",
+      "source": "X silver-squeeze/COMEX accounts, Reddit r/Silverbugs + r/OutOfTheLoop threads, and metals market commentary (FOREX.com/InvestingCube)",
       "asset": "Silver",
-      "signal": "Speculative Bullish, Crowded",
-      "confidence": "79%",
-      "insight": "Silver sentiment remains aggressively risk-on with heavy squeeze narratives and COMEX stress talk dominating X. Reddit tone is still bullish but increasingly split between moon-target conviction and warnings that positioning is getting crowded and whip-saw prone."
+      "signal": "Speculative Bullish, High Volatility Risk",
+      "confidence": "80%",
+      "insight": "Sentiment is still aggressively bullish around supply-deficit and COMEX narratives, but community posts now show more debate about hype vs fundamentals. The dominant read is upside-biased with elevated whipsaw risk as crowding and leverage concerns rise."
     },
     {
-      "source": "X derivatives-flow and options-expiry commentary, Reddit r/Bitcoin daily discussions, and crypto analyst desks (CoinDesk/market strategists)",
+      "source": "X crypto-trader and derivatives-flow posts, Reddit r/Bitcoin daily discussions, and crypto analyst community coverage (CoinDesk/Reuters/BeInCrypto)",
       "asset": "Bitcoin",
       "signal": "Cautious Bullish Rebound",
-      "confidence": "81%",
-      "insight": "Mood has improved after the short-squeeze bounce, but social and analyst channels still frame this as a fragile recovery after an extreme-fear phase. Sentiment is constructive while price holds upper-$60k levels, yet confidence stays conditional on post-expiry follow-through."
+      "confidence": "82%",
+      "insight": "Post-expiry narrative has shifted from panic to recovery: social tone improved after the bounce, but conviction is still conditional. Analyst/community flow repeatedly describes sentiment as fragile after extreme-fear readings, with upside expected only if momentum sustains above recent rebound levels."
     },
     {
-      "source": "X ETH trader/volatility threads, Reddit r/ethereum + r/CryptoCurrency discussions, and crypto analyst community notes",
+      "source": "X ETH trader commentary, Reddit r/ethereum + r/CryptoMarkets discussions, and crypto analyst community notes (CoinDesk/CoinMarketCap community feed)",
       "asset": "Ethereum",
       "signal": "Mixed to Cautious-Bullish",
-      "confidence": "77%",
-      "insight": "Reclaiming $2,000 improved tone across communities, but ETH sentiment remains less confident than BTC with persistent debate about relative underperformance. Positioning has shifted from capitulation to guarded optimism, pending sustained strength above key resistance."
+      "confidence": "78%",
+      "insight": "ETH sentiment has improved from capitulation to guarded optimism, but remains less confident than BTC due to ongoing underperformance debate. Communities are split between accumulation narratives and concerns that a stronger catalyst is still needed for a durable trend reversal."
     }
   ],
   "predictions": [
@@ -355,7 +355,7 @@
       "outcomes": [
         {
           "name": "US strikes Iran by end Feb",
-          "prob": 0.10,
+          "prob": 0.1,
           "vol": 37000000,
           "vol_fmt": "$37,000,000",
           "price_val": 0,
@@ -363,7 +363,7 @@
         },
         {
           "name": "US strikes Iran by Jun 30",
-          "prob": 0.70,
+          "prob": 0.7,
           "vol": 355000000,
           "vol_fmt": "$355,000,000",
           "price_val": 0,
@@ -379,7 +379,7 @@
         },
         {
           "name": "Khamenei removed by Sep 1",
-          "prob": 0.50,
+          "prob": 0.5,
           "vol": 6400000,
           "vol_fmt": "$6,400,000",
           "price_val": 0,
