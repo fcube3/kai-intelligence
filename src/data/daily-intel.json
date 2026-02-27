@@ -89,32 +89,32 @@
   ],
   "social_intelligence": [
     {
-      "source": "X trader threads (#XAUUSD, macro metals), Reddit r/Gold + r/investing discussions, and commodity-desk commentary relayed via market media",
+      "source": "X #XAUUSD trader feeds, Reddit r/Gold + r/investing threads, and metals analyst commentary from MarketPulse/TradingView desks",
       "asset": "Gold",
-      "signal": "Bullish, Momentum Reasserting",
-      "confidence": "82%",
-      "insight": "Cross-platform chatter shifted back to active bullishness after gold reclaimed $5,180+ following the SCOTUS tariff ruling. Safe-haven narratives and central-bank-demand themes dominate; dip-buyers who loaded $4,800–$5,000 support levels are now expressing conviction."
+      "signal": "Bullish with Event-Risk Awareness",
+      "confidence": "84%",
+      "insight": "Social chatter is still net-bullish as tariff uncertainty keeps safe-haven demand elevated and gold holds above recent breakout zones. The main debate is not direction but pace: traders expect pullbacks, yet dip-buying conviction remains strong across X and Reddit discussions."
     },
     {
-      "source": "X silver-squeeze/COMEX inventory threads, Reddit r/Silverbugs debates, and precious-metals analyst community notes",
+      "source": "X COMEX inventory/silver-squeeze accounts, Reddit r/Silverbugs discussions, and precious-metals analyst community updates",
       "asset": "Silver",
-      "signal": "Cautious Bullish — Feb 28 Deadline in Focus",
-      "confidence": "76%",
-      "insight": "With silver at ~$89 and Feb 28 Polymarket contracts expiring tomorrow, community sentiment is tense. Bulls pushing for $90+ close; bears pointing to profit-taking pressure at the threshold. Most vocal community thesis: temporary pullback before next leg higher."
+      "signal": "Bullish but Volatile",
+      "confidence": "79%",
+      "insight": "Silver sentiment is constructive but emotionally stretched. X threads amplify COMEX tightness narratives, while Reddit sentiment leans bullish with recurring calls for triple-digit prints; at the same time, many traders now expect sharp two-way moves and profit-taking after spikes."
     },
     {
-      "source": "X ETF-flow accounts and crypto commentators, Reddit r/Bitcoin daily threads, and crypto analyst community (desk + on-chain sentiment commentary)",
+      "source": "X derivatives/flow accounts (Deribit-linked commentary), Reddit r/Bitcoin daily threads, and crypto analyst community notes",
       "asset": "Bitcoin",
-      "signal": "Recovering — Options Expiry Caution",
-      "confidence": "83%",
-      "insight": "BTC sentiment improved materially after the short-squeeze rally, but today's $8.8B options expiry (max pain $75K) has traders cautious. Discussion centers on whether the bounce is durable or a dead-cat relief before the monthly close. ETF inflow watch is key."
+      "signal": "Neutral-Bullish Recovery, Expiry-Driven Caution",
+      "confidence": "81%",
+      "insight": "BTC tone improved from panic lows, but sentiment is still fragile into major options-expiry windows. Analyst and social commentary converges on a 'volatility unlock' setup: positioning is less one-sided than peak fear, yet conviction stays tactical until post-expiry direction is confirmed."
     },
     {
-      "source": "X ETH trader/whale sentiment posts, Reddit r/ethereum daily discussions, and crypto analyst communities (market-structure + on-chain framing)",
+      "source": "X ETH macro/derivatives commentators, Reddit r/ethereum daily discussion threads, and crypto analyst community framing",
       "asset": "Ethereum",
-      "signal": "Tentatively Recovering, Skepticism Remains",
-      "confidence": "80%",
-      "insight": "ETH reclaiming $2,000 lifted spirits, but community tone remains structurally cautious given max pain at $2,200 today and persistent BTC-relative underperformance. Contrarian voices growing louder on oversold conditions; near-term fate closely tied to BTC expiry outcome."
+      "signal": "Cautious Recovery, Relative Underperformance Concern",
+      "confidence": "78%",
+      "insight": "ETH sentiment has stabilized after reclaim attempts around key psychological levels, but community confidence still lags BTC. Across X and Reddit, the dominant read is selective optimism (oversold bounce potential) paired with concern about weak relative strength and headline sensitivity during options-expiry periods."
     }
   ],
   "predictions": [
