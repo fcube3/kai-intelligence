@@ -89,32 +89,32 @@
   ],
   "social_intelligence": [
     {
-      "source": "X #XAUUSD macro-trader threads, Reddit r/Gold + r/investing posts, and metals analyst desks (MarketPulse/Forex.com)",
+      "source": "X macro/FX threads (#XAUUSD), Reddit r/Gold + r/investing discussions, and metals analyst commentary (MarketPulse/FXStreet)",
       "asset": "Gold",
-      "signal": "Bullish, Slightly Crowded",
-      "confidence": "82%",
-      "insight": "Cross-platform sentiment remains net-bullish as tariff and policy uncertainty keeps the safe-haven narrative intact. Traders are increasingly discussing overextension near recent highs, but dip-buy behavior is still dominant in both X and Reddit conversations."
+      "signal": "Bullish, Slightly Overextended",
+      "confidence": "84%",
+      "insight": "Social flow is still net-bullish on tariff-driven safe-haven demand, with dip-buying repeatedly favored across X and Reddit. The main shift vs earlier in the month is more chatter about near-term overextension, but not a broad sentiment reversal."
     },
     {
-      "source": "X silver-squeeze/COMEX accounts, Reddit r/Silverbugs + r/SilverDegenClub, and precious-metals analyst commentary",
+      "source": "X silver-squeeze/COMEX accounts, Reddit r/Silverbugs threads, and precious-metals analyst community commentary",
       "asset": "Silver",
-      "signal": "Speculative Bullish with High Volatility",
-      "confidence": "77%",
-      "insight": "Silver chatter is aggressively bullish but noisier than gold: X flow is driven by COMEX stress narratives and squeeze talk, while Reddit shows both conviction stacking and warning signs of emotional positioning. Directional bias is up, but sentiment quality is frothy and prone to violent reversals."
+      "signal": "Speculative Bullish, Crowded",
+      "confidence": "79%",
+      "insight": "Silver sentiment remains aggressively risk-on with heavy squeeze narratives and COMEX stress talk dominating X. Reddit tone is still bullish but increasingly split between moon-target conviction and warnings that positioning is getting crowded and whip-saw prone."
     },
     {
-      "source": "X derivatives-flow commentators, Reddit r/Bitcoin daily discussions, and crypto analyst community notes around Deribit expiry",
+      "source": "X derivatives-flow and options-expiry commentary, Reddit r/Bitcoin daily discussions, and crypto analyst desks (CoinDesk/market strategists)",
       "asset": "Bitcoin",
       "signal": "Cautious Bullish Rebound",
-      "confidence": "80%",
-      "insight": "Sentiment improved after the squeeze-driven bounce back toward the upper-$60k range, with call-heavy positioning discussed widely ahead of expiry. Even with the risk tone improving, both social and analyst channels frame this as tactical recovery rather than full trend confirmation until post-expiry follow-through holds."
+      "confidence": "81%",
+      "insight": "Mood has improved after the short-squeeze bounce, but social and analyst channels still frame this as a fragile recovery after an extreme-fear phase. Sentiment is constructive while price holds upper-$60k levels, yet confidence stays conditional on post-expiry follow-through."
     },
     {
-      "source": "X ETH traders/vol desks, Reddit r/ethereum + r/ethtrader threads, and broader crypto analyst commentary",
+      "source": "X ETH trader/volatility threads, Reddit r/ethereum + r/CryptoCurrency discussions, and crypto analyst community notes",
       "asset": "Ethereum",
       "signal": "Mixed to Cautious-Bullish",
-      "confidence": "76%",
-      "insight": "Reclaiming the $2,000 area improved mood, but ETH sentiment remains more fragile than BTC with persistent debate about relative weakness. Community tone has shifted from capitulation to guarded optimism, yet confidence stays conditional on ETH holding key levels after options-related volatility fades."
+      "confidence": "77%",
+      "insight": "Reclaiming $2,000 improved tone across communities, but ETH sentiment remains less confident than BTC with persistent debate about relative underperformance. Positioning has shifted from capitulation to guarded optimism, pending sustained strength above key resistance."
     }
   ],
   "predictions": [
