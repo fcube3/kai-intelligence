@@ -5,7 +5,6 @@
 :root {
   --background: #0d1117;
   --foreground: #c9d1d9;
-  --accent: #F5A623;
 }
 
 body {
@@ -18,10 +17,4 @@ body {
 .scrollbar-custom::-webkit-scrollbar { width: 4px; }
 .scrollbar-custom::-webkit-scrollbar-track { background: transparent; }
 .scrollbar-custom::-webkit-scrollbar-thumb { background-color: #30363d; border-radius: 4px; }
-.scrollbar-custom::-webkit-scrollbar-thumb:hover { background-color: #F5A623; }
-
-/* Mobile table scroll */
-.table-scroll { overflow-x: auto; -webkit-overflow-scrolling: touch; }
-
-/* Accent glow for key elements */
-.accent-glow { box-shadow: 0 0 20px rgba(245,166,35,0.15); }
+.scrollbar-custom::-webkit-scrollbar-thumb:hover { background-color: #58a6ff; }
