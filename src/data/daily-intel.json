@@ -89,32 +89,32 @@
   ],
   "social_intelligence": [
     {
-      "source": "X #XAUUSD trader feeds, Reddit r/Gold + r/investing threads, and metals analyst commentary from MarketPulse/TradingView desks",
+      "source": "X #XAUUSD macro-trader threads, Reddit r/Gold + r/investing posts, and metals analyst desks (MarketPulse/Forex.com)",
       "asset": "Gold",
-      "signal": "Bullish with Event-Risk Awareness",
-      "confidence": "84%",
-      "insight": "Social chatter is still net-bullish as tariff uncertainty keeps safe-haven demand elevated and gold holds above recent breakout zones. The main debate is not direction but pace: traders expect pullbacks, yet dip-buying conviction remains strong across X and Reddit discussions."
+      "signal": "Bullish, Slightly Crowded",
+      "confidence": "82%",
+      "insight": "Cross-platform sentiment remains net-bullish as tariff and policy uncertainty keeps the safe-haven narrative intact. Traders are increasingly discussing overextension near recent highs, but dip-buy behavior is still dominant in both X and Reddit conversations."
     },
     {
-      "source": "X COMEX inventory/silver-squeeze accounts, Reddit r/Silverbugs discussions, and precious-metals analyst community updates",
+      "source": "X silver-squeeze/COMEX accounts, Reddit r/Silverbugs + r/SilverDegenClub, and precious-metals analyst commentary",
       "asset": "Silver",
-      "signal": "Bullish but Volatile",
-      "confidence": "79%",
-      "insight": "Silver sentiment is constructive but emotionally stretched. X threads amplify COMEX tightness narratives, while Reddit sentiment leans bullish with recurring calls for triple-digit prints; at the same time, many traders now expect sharp two-way moves and profit-taking after spikes."
+      "signal": "Speculative Bullish with High Volatility",
+      "confidence": "77%",
+      "insight": "Silver chatter is aggressively bullish but noisier than gold: X flow is driven by COMEX stress narratives and squeeze talk, while Reddit shows both conviction stacking and warning signs of emotional positioning. Directional bias is up, but sentiment quality is frothy and prone to violent reversals."
     },
     {
-      "source": "X derivatives/flow accounts (Deribit-linked commentary), Reddit r/Bitcoin daily threads, and crypto analyst community notes",
+      "source": "X derivatives-flow commentators, Reddit r/Bitcoin daily discussions, and crypto analyst community notes around Deribit expiry",
       "asset": "Bitcoin",
-      "signal": "Neutral-Bullish Recovery, Expiry-Driven Caution",
-      "confidence": "81%",
-      "insight": "BTC tone improved from panic lows, but sentiment is still fragile into major options-expiry windows. Analyst and social commentary converges on a 'volatility unlock' setup: positioning is less one-sided than peak fear, yet conviction stays tactical until post-expiry direction is confirmed."
+      "signal": "Cautious Bullish Rebound",
+      "confidence": "80%",
+      "insight": "Sentiment improved after the squeeze-driven bounce back toward the upper-$60k range, with call-heavy positioning discussed widely ahead of expiry. Even with the risk tone improving, both social and analyst channels frame this as tactical recovery rather than full trend confirmation until post-expiry follow-through holds."
     },
     {
-      "source": "X ETH macro/derivatives commentators, Reddit r/ethereum daily discussion threads, and crypto analyst community framing",
+      "source": "X ETH traders/vol desks, Reddit r/ethereum + r/ethtrader threads, and broader crypto analyst commentary",
       "asset": "Ethereum",
-      "signal": "Cautious Recovery, Relative Underperformance Concern",
-      "confidence": "78%",
-      "insight": "ETH sentiment has stabilized after reclaim attempts around key psychological levels, but community confidence still lags BTC. Across X and Reddit, the dominant read is selective optimism (oversold bounce potential) paired with concern about weak relative strength and headline sensitivity during options-expiry periods."
+      "signal": "Mixed to Cautious-Bullish",
+      "confidence": "76%",
+      "insight": "Reclaiming the $2,000 area improved mood, but ETH sentiment remains more fragile than BTC with persistent debate about relative weakness. Community tone has shifted from capitulation to guarded optimism, yet confidence stays conditional on ETH holding key levels after options-related volatility fades."
     }
   ],
   "predictions": [
