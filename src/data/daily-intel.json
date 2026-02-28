@@ -120,64 +120,64 @@
   "predictions": [
     {
       "label": "GOLD PRICE",
-      "title": "Gold (XAU) price path 2026 — analyst consensus + tariff/Iran risk premium (Feb 28 11:00 sync, 7th monthly gain, $5,278 close; JPM $6,300 target now highest; structural safe-haven bid intact)",
+      "title": "Gold (XAU) price path 2026 — analyst consensus + tariff/Iran risk premium (Feb 28 14:00 sync, 7th monthly gain, $5,278 close; LiteFinance: Mar 2 reopen target $5,108–$5,208; UBS $6,200 / JPM $6,300 high-end; structural safe-haven bid intact)",
       "url": "https://polymarket.com/event/gc-hit-jun-2026",
       "nominal": "$10,400,000+",
       "color": "yellow",
       "outcomes": [
         {
           "name": "↑ $5,500 by Jun",
-          "prob": 0.83,
+          "prob": 0.79,
           "vol": 1750000,
           "vol_fmt": "$1,750,000",
           "price_val": 5500.0,
-          "prob_pct": "83%"
+          "prob_pct": "79%"
         },
         {
           "name": "↑ $5,800 by Jun",
-          "prob": 0.58,
+          "prob": 0.54,
           "vol": 1110000,
           "vol_fmt": "$1,110,000",
           "price_val": 5800.0,
-          "prob_pct": "58%"
+          "prob_pct": "54%"
         },
         {
           "name": "↑ $6,000 by Jun",
-          "prob": 0.43,
+          "prob": 0.39,
           "vol": 980000,
           "vol_fmt": "$980,000",
           "price_val": 6000.0,
-          "prob_pct": "43%"
+          "prob_pct": "39%"
         },
         {
           "name": "↑ $6,200 by Dec (UBS target)",
-          "prob": 0.49,
+          "prob": 0.46,
           "vol": 1380000,
           "vol_fmt": "$1,380,000",
           "price_val": 6200.0,
-          "prob_pct": "49%"
+          "prob_pct": "46%"
         },
         {
-          "name": "↑ $6,300 by Dec (JPM target — 7-bank avg $5,657)",
-          "prob": 0.44,
+          "name": "↑ $6,300 by Dec (JPM target — LiteFinance 2026 range $4,935–$11,274)",
+          "prob": 0.41,
           "vol": 1020000,
           "vol_fmt": "$1,020,000",
           "price_val": 6300.0,
-          "prob_pct": "44%"
+          "prob_pct": "41%"
         },
         {
           "name": "↓ $4,500 or below",
-          "prob": 0.02,
+          "prob": 0.03,
           "vol": 195000,
           "vol_fmt": "$195,000",
           "price_val": 4500.0,
-          "prob_pct": "2%"
+          "prob_pct": "3%"
         }
       ]
     },
     {
       "label": "BTC PRICE",
-      "title": "Bitcoin price markets 2026 — Polymarket / analyst composite (Feb 28 11:00 sync, $65.5K; $75k-before-2027 revised UP to 85%; $100k ~39%; $150k 12%; bear pattern active; Motley Fool: market underestimating BTC)",
+      "title": "Bitcoin price markets 2026 — Polymarket / analyst composite (Feb 28 14:00 sync, $65.5K; $75k-before-2027 at 85%; $100k ~39%; $150k 13%; bear pattern active; Motley Fool: recency bias underestimates BTC upside; 99Bitcoins: $80k before $60k still viable)",
       "url": "https://polymarket.com/event/will-bitcoin-hit-60k-or-80k-first-965",
       "nominal": "$132,000,000+",
       "color": "purple",
@@ -199,14 +199,6 @@
           "prob_pct": "85%"
         },
         {
-          "name": "↑ $75k in Feb (Polymarket Feb deadline)",
-          "prob": 0.17,
-          "vol": 2200000,
-          "vol_fmt": "$2,200,000",
-          "price_val": 75000.0,
-          "prob_pct": "17%"
-        },
-        {
           "name": "↑ $80k by Jun 30",
           "prob": 0.2,
           "vol": 3600000,
@@ -224,44 +216,52 @@
         },
         {
           "name": "↑ $150k by Dec",
-          "prob": 0.12,
+          "prob": 0.13,
           "vol": 4100000,
           "vol_fmt": "$4,100,000",
           "price_val": 150000.0,
-          "prob_pct": "12%"
+          "prob_pct": "13%"
+        },
+        {
+          "name": "BTC consolidates $65k–$73k (CoinDCX base case)",
+          "prob": 0.45,
+          "vol": 1800000,
+          "vol_fmt": "$1,800,000",
+          "price_val": 0,
+          "prob_pct": "45%"
         }
       ]
     },
     {
       "label": "ETH PRICE",
-      "title": "Ethereum price outlook 2026 — analyst composite + Polymarket (Feb 28 11:00 sync, $2,030 close; ETH ATH ~40%; $3,500 Dec consensus; on-chain signals potential bottoming)",
+      "title": "Ethereum price outlook 2026 — analyst composite + Polymarket (Feb 28 14:00 sync, $2,030 close; ETH ATH ~40%; $3,500 Dec consensus via InvestingHaven/Perplexity; Changelly: +6.8% to $2,095 by Mar 2; cautious-to-bearish near term)",
       "url": "https://polymarket.com/event/what-price-will-ethereum-hit-before-2027",
       "nominal": "$35,200,000+",
       "color": "blue",
       "outcomes": [
         {
           "name": "↑ $2,200 by Mar (analyst target)",
-          "prob": 0.3,
+          "prob": 0.28,
           "vol": 1050000,
           "vol_fmt": "$1,050,000",
           "price_val": 2200.0,
-          "prob_pct": "30%"
+          "prob_pct": "28%"
         },
         {
           "name": "↑ $2,500 by Mar",
-          "prob": 0.11,
+          "prob": 0.1,
           "vol": 810000,
           "vol_fmt": "$810,000",
           "price_val": 2500.0,
-          "prob_pct": "11%"
+          "prob_pct": "10%"
         },
         {
           "name": "↑ $3,000 by Jun",
-          "prob": 0.25,
+          "prob": 0.24,
           "vol": 1980000,
           "vol_fmt": "$1,980,000",
           "price_val": 3000.0,
-          "prob_pct": "25%"
+          "prob_pct": "24%"
         },
         {
           "name": "↑ $3,500 by Dec",
@@ -291,7 +291,7 @@
     },
     {
       "label": "MACRO / FED",
-      "title": "Fed March 2026 decision + 2026 cuts total + recession risk (Kalshi/Polymarket Feb 28 11:00 sync — 96% hold; FRONTRUNNER now 2 cuts at 28%; 3 cuts at 20%; Warsh confirmed ✓; Bloomberg: markets are economic oracles)",
+      "title": "Fed March 2026 decision + 2026 cuts total + recession risk (Kalshi/Polymarket Feb 28 14:00 sync — 96% hold CONFIRMED on BOTH platforms per DeFi Rate cross-platform study; 2 cuts frontrunner at 28%; Bloomberg: prediction markets now 'economic oracles')",
       "url": "https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-26mar",
       "nominal": "$195,000,000+",
       "color": "green",
@@ -348,26 +348,26 @@
     },
     {
       "label": "GEOPOLITICS",
-      "title": "Iran strike + strait risk + tariff regime (Polymarket Feb 28 11:00 sync — year-end ~74%; Mar 15 odds ~41%; $355M+ volume; tariff SCOTUS challenge active; Trump-Xi summit odds on deck)",
+      "title": "Iran strike + strait risk + tariff regime (Polymarket Feb 28 14:00 sync — year-end ~72% (down from 74%); Mar 15 REVISED DOWN to 38% (TipRanks latest: 35%); $180K bet placed against US strike by Mar 4; China tariff 5–15% at 63%; Trump China visit by Apr 30 at 95%)",
       "url": "https://polymarket.com/event/us-tariff-rate-on-china-on-march-31",
       "nominal": "$445,000,000+",
       "color": "red",
       "outcomes": [
         {
           "name": "US strikes Iran by Mar 15",
-          "prob": 0.41,
+          "prob": 0.38,
           "vol": 62000000,
           "vol_fmt": "$62,000,000",
           "price_val": 0,
-          "prob_pct": "41%"
+          "prob_pct": "38%"
         },
         {
           "name": "US strikes Iran by year-end",
-          "prob": 0.74,
+          "prob": 0.72,
           "vol": 370000000,
           "vol_fmt": "$370,000,000",
           "price_val": 0,
-          "prob_pct": "74%"
+          "prob_pct": "72%"
         },
         {
           "name": "Iran closes Strait of Hormuz",
@@ -386,37 +386,37 @@
           "prob_pct": "49%"
         },
         {
-          "name": "China tariff ~15% on Mar 31",
-          "prob": 0.52,
+          "name": "China tariff 5–15% on Mar 31 (Polymarket: 63%)",
+          "prob": 0.63,
           "vol": 5800000,
           "vol_fmt": "$5,800,000",
           "price_val": 15,
-          "prob_pct": "52%"
+          "prob_pct": "63%"
         },
         {
-          "name": "Trump–Xi summit Mar 31–Apr 2",
-          "prob": 0.71,
+          "name": "Trump visits China by Apr 30 (Polymarket: 95%)",
+          "prob": 0.95,
           "vol": 4800000,
           "vol_fmt": "$4,800,000",
           "price_val": 0,
-          "prob_pct": "71%"
+          "prob_pct": "95%"
         }
       ]
     },
     {
       "label": "WILDCARD",
-      "title": "Clarity Act + silver + midterms composite (Polymarket Feb 28 11:00 sync — Clarity Act RECOVERED to 69% after crashing from 82% to 42%; Dems sweep 40%; BTC ATH 17%)",
+      "title": "Clarity Act + silver + midterms composite (Polymarket Feb 28 14:00 sync — Clarity Act COLLAPSED to ~52% after spiking to 90% then crashing to 53% on tariff shock; Dems House flip 86% Kalshi; Dems full sweep 39–40%; BTC ATH 13%)",
       "url": "https://polymarket.com/event/clarity-act-signed-into-law-in-2026",
       "nominal": "$N/A (composite)",
       "color": "gray",
       "outcomes": [
         {
-          "name": "Clarity Act signed 2026",
-          "prob": 0.69,
+          "name": "Clarity Act signed 2026 (volatile: 90%→53%→52% now)",
+          "prob": 0.52,
           "vol": 3850000,
           "vol_fmt": "$3,850,000",
           "price_val": 0,
-          "prob_pct": "69%"
+          "prob_pct": "52%"
         },
         {
           "name": "Silver > $90 by Mar 31",
@@ -435,20 +435,20 @@
           "prob_pct": "24%"
         },
         {
-          "name": "2026 Midterms: Dems sweep",
-          "prob": 0.4,
+          "name": "2026 Midterms: Dems sweep (Covers: 39%)",
+          "prob": 0.39,
           "vol": 4300000,
           "vol_fmt": "$4,300,000",
           "price_val": 0,
-          "prob_pct": "40%"
+          "prob_pct": "39%"
         },
         {
           "name": "BTC new ATH in 2026",
-          "prob": 0.17,
+          "prob": 0.13,
           "vol": 2300000,
           "vol_fmt": "$2,300,000",
           "price_val": 0,
-          "prob_pct": "17%"
+          "prob_pct": "13%"
         },
         {
           "name": "Satoshi moves BTC in 2026",
