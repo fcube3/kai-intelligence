@@ -89,32 +89,32 @@
   ],
   "social_intelligence": [
     {
-      "source": "X #XAUUSD trader threads, TradingView gold ideas feed, Reddit r/Gold",
+      "source": "X #XAUUSD/#gold threads, Reddit r/Gold, WGC/OANDA/LiteFinance analyst sentiment roundups",
       "asset": "Gold",
-      "signal": "Bullish but Crowded Safe-Haven Positioning",
-      "confidence": "84%",
-      "insight": "Cross-platform chatter stays risk-off bullish on gold heading into the March 2 reopen, with repeated safe-haven framing tied to tariff/geopolitical uncertainty. Tone remains net long, but more posts now warn of crowding and weekend profit-taking risk after the multi-month run."
+      "signal": "Bullish Safe-Haven Consensus, Mild Crowding Risk",
+      "confidence": "82%",
+      "insight": "Cross-channel tone is still net bullish on gold as tariff/geopolitical risk keeps safe-haven demand elevated. Reddit and X flows lean long into Monday reopen, but more traders are flagging stretched positioning after seven straight monthly gains."
     },
     {
-      "source": "X silver breakout threads, Reddit r/Silverbugs, Kitco-linked analyst commentary",
+      "source": "X #Silver/#XAGUSD trader posts, Reddit r/Silverbugs, BeInCrypto/FinanceFeeds technical commentary",
       "asset": "Silver",
-      "signal": "Volatile Upside Bias — Breakout Narrative Active",
-      "confidence": "72%",
-      "insight": "Silver sentiment is still constructive but noisier than gold: X flow emphasizes breakout setups and '$90/$100' targets, while Reddit discussion is split between momentum believers and pullback skeptics. Net signal is bullish-volatile rather than clean trend conviction."
+      "signal": "Bullish-Volatile Breakout Narrative",
+      "confidence": "74%",
+      "insight": "Silver chatter remains constructive with repeated breakout targets, supported by technical talk around resistance clears. Sentiment is less uniform than gold: high upside enthusiasm on X is balanced by Reddit caution on sharp pullbacks and margin-driven volatility."
     },
     {
-      "source": "X BTC trader posts, Reddit r/Bitcoin + r/CryptoCurrency discussions, CoinDesk/CryptoTicker sentiment coverage",
+      "source": "X BTC sentiment threads, Reddit r/Bitcoin + r/CryptoCurrency, CoinDesk/CCN analyst community coverage",
       "asset": "Bitcoin",
-      "signal": "Defensive-to-Cautious, Dip-Buying Underway",
-      "confidence": "69%",
-      "insight": "After the failed push above $70K and return toward mid-$60Ks, social tone has shifted defensive: more talk of consolidation/retest risk and bear-pattern anxiety. At the same time, Reddit/X dip-buy language is active around ~$65K, keeping sentiment mixed rather than capitulative."
+      "signal": "Defensive Risk-Off Mood, Active Dip-Buying Near $65K",
+      "confidence": "77%",
+      "insight": "Social mood turned cautious after the rejection near $70K and repeated $65K tests, with strong discussion of downside hedging and $60K retest risk. At the same time, Reddit/X participation shows persistent dip-buy behavior around mid-$60Ks, keeping sentiment mixed rather than capitulative."
     },
     {
-      "source": "X ETH technical threads, Reddit r/ethereum + r/CryptoCurrency, CFGI/CoinMarketCap social gauges",
+      "source": "X ETH market structure threads, Reddit r/ethereum + r/ethtrader, BeInCrypto/IG/CoinDesk analyst updates",
       "asset": "Ethereum",
-      "signal": "Short-Term Bearish / Relative Underperformance",
-      "confidence": "71%",
-      "insight": "ETH social flow remains weaker than BTC: frequent focus on reclaiming $2,000, downside support chatter, and narrative fatigue around relative performance. Some institutional-accumulation and 'buy-the-range' voices persist, but dominant tone is cautious until momentum clearly returns."
+      "signal": "Cautious-to-Bearish with Tactical Rebound Interest",
+      "confidence": "73%",
+      "insight": "ETH sentiment is still weaker than BTC on relative strength and reclaim-failure narratives, with $2,000 treated as a fragile line. Analyst/community tone allows for short squeezes and range rebounds, but conviction stays guarded until ETH can sustain closes back above key resistance zones."
     }
   ],
   "predictions": [
@@ -208,7 +208,7 @@
         },
         {
           "name": "↑ $80k by Jun 30",
-          "prob": 0.20,
+          "prob": 0.2,
           "vol": 3600000,
           "vol_fmt": "$3,600,000",
           "price_val": 80000.0,
@@ -241,7 +241,7 @@
       "outcomes": [
         {
           "name": "↑ $2,200 by Mar (analyst target)",
-          "prob": 0.30,
+          "prob": 0.3,
           "vol": 1050000,
           "vol_fmt": "$1,050,000",
           "price_val": 2200.0,
@@ -273,7 +273,7 @@
         },
         {
           "name": "ETH new ATH in 2026",
-          "prob": 0.40,
+          "prob": 0.4,
           "vol": 2350000,
           "vol_fmt": "$2,350,000",
           "price_val": 0,
@@ -322,7 +322,7 @@
         },
         {
           "name": "3 cuts in 2026 (mkt pricing)",
-          "prob": 0.20,
+          "prob": 0.2,
           "vol": 18000000,
           "vol_fmt": "$18,000,000",
           "price_val": 75,
@@ -330,7 +330,7 @@
         },
         {
           "name": "US recession by Dec",
-          "prob": 0.40,
+          "prob": 0.4,
           "vol": 22500000,
           "vol_fmt": "$22,500,000",
           "price_val": 0,
@@ -436,7 +436,7 @@
         },
         {
           "name": "2026 Midterms: Dems sweep",
-          "prob": 0.40,
+          "prob": 0.4,
           "vol": 4300000,
           "vol_fmt": "$4,300,000",
           "price_val": 0,
