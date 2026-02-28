@@ -89,32 +89,32 @@
   ],
   "social_intelligence": [
     {
-      "source": "X macro/FX threads (#XAUUSD), Reddit r/Gold, Times of India / LiteFinance / World Gold Council commentary",
+      "source": "X #XAUUSD trader threads, TradingView gold ideas feed, Reddit r/Gold",
       "asset": "Gold",
-      "signal": "Bullish Safe-Haven, Seventh Monthly Gain",
-      "confidence": "86%",
-      "insight": "Gold social discourse remains highly bullish as tariff uncertainty and Iran tensions persist into March. Feb 28 weekend chatter is focused on whether the March 2 resumption holds above $5,200 or sees a profit-taking pullback. Crowd positioning is net long with growing debate about overcrowding near all-time highs."
+      "signal": "Bullish but Crowded Safe-Haven Positioning",
+      "confidence": "84%",
+      "insight": "Cross-platform chatter stays risk-off bullish on gold heading into the March 2 reopen, with repeated safe-haven framing tied to tariff/geopolitical uncertainty. Tone remains net long, but more posts now warn of crowding and weekend profit-taking risk after the multi-month run."
     },
     {
-      "source": "X silver threads, Reddit r/Silverbugs, MCX silver data, Sunday Guardian Live / Fortune",
+      "source": "X silver breakout threads, Reddit r/Silverbugs, Kitco-linked analyst commentary",
       "asset": "Silver",
-      "signal": "Consolidating — Cautious Bullish",
-      "confidence": "74%",
-      "insight": "Silver is consolidating below recent highs (~$87.50 spot), down from a January ATH. MCX silver futures are steady but subdued. Social tone is cautious-bullish with COMEX supply-deficit narratives intact, but community excitement has cooled after the sharp Jan pullback. Watching for a March break above $90 as the next sentiment trigger."
+      "signal": "Volatile Upside Bias — Breakout Narrative Active",
+      "confidence": "72%",
+      "insight": "Silver sentiment is still constructive but noisier than gold: X flow emphasizes breakout setups and '$90/$100' targets, while Reddit discussion is split between momentum believers and pullback skeptics. Net signal is bullish-volatile rather than clean trend conviction."
     },
     {
-      "source": "X crypto trader threads, CoinDesk Daybook, Reddit r/Bitcoin, coinpedia / beincrypto / kakiforex",
+      "source": "X BTC trader posts, Reddit r/Bitcoin + r/CryptoCurrency discussions, CoinDesk/CryptoTicker sentiment coverage",
       "asset": "Bitcoin",
-      "signal": "Caution — Bear Pattern Reappears",
-      "confidence": "68%",
-      "insight": "Sentiment has soured again after the brief run to $70K was rejected and BTC slid back to $65.5K. CoinDesk flagged a historic chart pattern that preceded the deepest bear phases in prior cycles. Whale accumulation is noted as a counterbalancing positive. Community is split: accumulators vs. pattern-fearers. Short-term bias has shifted bearish."
+      "signal": "Defensive-to-Cautious, Dip-Buying Underway",
+      "confidence": "69%",
+      "insight": "After the failed push above $70K and return toward mid-$60Ks, social tone has shifted defensive: more talk of consolidation/retest risk and bear-pattern anxiety. At the same time, Reddit/X dip-buy language is active around ~$65K, keeping sentiment mixed rather than capitulative."
     },
     {
-      "source": "X ETH commentary, Reddit r/ethereum, CoinDesk / Changelly / Motley Fool",
+      "source": "X ETH technical threads, Reddit r/ethereum + r/CryptoCurrency, CFGI/CoinMarketCap social gauges",
       "asset": "Ethereum",
-      "signal": "Bearish Short-Term — Longer-Term Debate Intact",
-      "confidence": "70%",
-      "insight": "Changelly's technical analysis shows ETH is bearish on both 4H and daily charts as of late February, with the 200-day MA falling since Feb 23. Reddit/X discourse is polarized: ETH underperformance bulls argue accumulation, bears highlight ETH's persistent lag vs BTC and Solana. No clear catalyst on the near-term horizon."
+      "signal": "Short-Term Bearish / Relative Underperformance",
+      "confidence": "71%",
+      "insight": "ETH social flow remains weaker than BTC: frequent focus on reclaiming $2,000, downside support chatter, and narrative fatigue around relative performance. Some institutional-accumulation and 'buy-the-range' voices persist, but dominant tone is cautious until momentum clearly returns."
     }
   ],
   "predictions": [
