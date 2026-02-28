@@ -120,7 +120,7 @@
   "predictions": [
     {
       "label": "GOLD PRICE",
-      "title": "Gold (XAU) price path 2026 — analyst consensus + tariff/Iran risk premium (Feb 28 09:18 sync, 7th monthly gain, $5,278 close; structural safe-haven bid intact)",
+      "title": "Gold (XAU) price path 2026 — analyst consensus + tariff/Iran risk premium (Feb 28 11:00 sync, 7th monthly gain, $5,278 close; JPM $6,300 target now highest; structural safe-haven bid intact)",
       "url": "https://polymarket.com/event/gc-hit-jun-2026",
       "nominal": "$10,400,000+",
       "color": "yellow",
@@ -158,12 +158,12 @@
           "prob_pct": "49%"
         },
         {
-          "name": "↑ $7,000 by Dec",
-          "prob": 0.21,
-          "vol": 960000,
-          "vol_fmt": "$960,000",
-          "price_val": 7000.0,
-          "prob_pct": "21%"
+          "name": "↑ $6,300 by Dec (JPM target — 7-bank avg $5,657)",
+          "prob": 0.44,
+          "vol": 1020000,
+          "vol_fmt": "$1,020,000",
+          "price_val": 6300.0,
+          "prob_pct": "44%"
         },
         {
           "name": "↓ $4,500 or below",
@@ -177,7 +177,7 @@
     },
     {
       "label": "BTC PRICE",
-      "title": "Bitcoin price markets 2026 — Polymarket / analyst composite (Feb 28 09:18 sync, $65.5K; $80k-before-$60k flipped bearish; $100k odds ~39%; bear pattern active)",
+      "title": "Bitcoin price markets 2026 — Polymarket / analyst composite (Feb 28 11:00 sync, $65.5K; $75k-before-2027 revised UP to 85%; $100k ~39%; $150k 12%; bear pattern active; Motley Fool: market underestimating BTC)",
       "url": "https://polymarket.com/event/will-bitcoin-hit-60k-or-80k-first-965",
       "nominal": "$132,000,000+",
       "color": "purple",
@@ -192,19 +192,19 @@
         },
         {
           "name": "↑ $75k before 2027",
-          "prob": 0.65,
-          "vol": 8900000,
-          "vol_fmt": "$8,900,000",
+          "prob": 0.85,
+          "vol": 9800000,
+          "vol_fmt": "$9,800,000",
           "price_val": 75000.0,
-          "prob_pct": "65%"
+          "prob_pct": "85%"
         },
         {
-          "name": "↑ $80k by Mar 31",
-          "prob": 0.02,
+          "name": "↑ $75k in Feb (Polymarket Feb deadline)",
+          "prob": 0.17,
           "vol": 2200000,
           "vol_fmt": "$2,200,000",
-          "price_val": 80000.0,
-          "prob_pct": "2%"
+          "price_val": 75000.0,
+          "prob_pct": "17%"
         },
         {
           "name": "↑ $80k by Jun 30",
@@ -234,7 +234,7 @@
     },
     {
       "label": "ETH PRICE",
-      "title": "Ethereum price outlook 2026 — analyst composite + Polymarket (Feb 28 09:18 sync, $2,030 close; new ATH probability revised up to ~40%; $3,500 Dec consensus)",
+      "title": "Ethereum price outlook 2026 — analyst composite + Polymarket (Feb 28 11:00 sync, $2,030 close; ETH ATH ~40%; $3,500 Dec consensus; on-chain signals potential bottoming)",
       "url": "https://polymarket.com/event/what-price-will-ethereum-hit-before-2027",
       "nominal": "$35,200,000+",
       "color": "blue",
@@ -291,7 +291,7 @@
     },
     {
       "label": "MACRO / FED",
-      "title": "Fed March 2026 decision + 2026 cuts total + recession risk (CME FedWatch Feb 28 09:18 sync — 96% hold; first Warsh cut Jul at 62%; Warsh confirmed ✓)",
+      "title": "Fed March 2026 decision + 2026 cuts total + recession risk (Kalshi/Polymarket Feb 28 11:00 sync — 96% hold; FRONTRUNNER now 2 cuts at 28%; 3 cuts at 20%; Warsh confirmed ✓; Bloomberg: markets are economic oracles)",
       "url": "https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-26mar",
       "nominal": "$195,000,000+",
       "color": "green",
@@ -313,12 +313,20 @@
           "prob_pct": "4%"
         },
         {
+          "name": "2 cuts in 2026 (Polymarket frontrunner)",
+          "prob": 0.28,
+          "vol": 28000000,
+          "vol_fmt": "$28,000,000",
+          "price_val": 50,
+          "prob_pct": "28%"
+        },
+        {
           "name": "3 cuts in 2026 (mkt pricing)",
-          "prob": 0.38,
-          "vol": 32000000,
-          "vol_fmt": "$32,000,000",
+          "prob": 0.20,
+          "vol": 18000000,
+          "vol_fmt": "$18,000,000",
           "price_val": 75,
-          "prob_pct": "38%"
+          "prob_pct": "20%"
         },
         {
           "name": "US recession by Dec",
@@ -335,20 +343,12 @@
           "vol_fmt": "$195,000,000",
           "price_val": 0,
           "prob_pct": "100%"
-        },
-        {
-          "name": "First Warsh cut by Jul 2026",
-          "prob": 0.62,
-          "vol": 29000000,
-          "vol_fmt": "$29,000,000",
-          "price_val": 0,
-          "prob_pct": "62%"
         }
       ]
     },
     {
       "label": "GEOPOLITICS",
-      "title": "Iran strike + strait risk + tariff regime (Polymarket Feb 28 09:18 sync — $180K bet AGAINST strike by Mar 4; Mar 15 odds ~41%; year-end ~74%; tariff + Trump-Xi on deck)",
+      "title": "Iran strike + strait risk + tariff regime (Polymarket Feb 28 11:00 sync — year-end ~74%; Mar 15 odds ~41%; $355M+ volume; tariff SCOTUS challenge active; Trump-Xi summit odds on deck)",
       "url": "https://polymarket.com/event/us-tariff-rate-on-china-on-march-31",
       "nominal": "$445,000,000+",
       "color": "red",
@@ -364,8 +364,8 @@
         {
           "name": "US strikes Iran by year-end",
           "prob": 0.74,
-          "vol": 360000000,
-          "vol_fmt": "$360,000,000",
+          "vol": 370000000,
+          "vol_fmt": "$370,000,000",
           "price_val": 0,
           "prob_pct": "74%"
         },
@@ -405,18 +405,18 @@
     },
     {
       "label": "WILDCARD",
-      "title": "Clarity Act + silver + midterms composite (Polymarket Feb 28 09:18 sync — Clarity Act slid to 52% from ~85%; Dems sweep ticked to 40%; BTC ATH 17%)",
+      "title": "Clarity Act + silver + midterms composite (Polymarket Feb 28 11:00 sync — Clarity Act RECOVERED to 69% after crashing from 82% to 42%; Dems sweep 40%; BTC ATH 17%)",
       "url": "https://polymarket.com/event/clarity-act-signed-into-law-in-2026",
       "nominal": "$N/A (composite)",
       "color": "gray",
       "outcomes": [
         {
           "name": "Clarity Act signed 2026",
-          "prob": 0.52,
-          "vol": 3450000,
-          "vol_fmt": "$3,450,000",
+          "prob": 0.69,
+          "vol": 3850000,
+          "vol_fmt": "$3,850,000",
           "price_val": 0,
-          "prob_pct": "52%"
+          "prob_pct": "69%"
         },
         {
           "name": "Silver > $90 by Mar 31",
